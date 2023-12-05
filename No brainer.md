@@ -34,3 +34,20 @@ Operating System
 
 <p>2계층, 데이터 링크 계층, Data Link Layer</p>
 <br>
+
+
+### Programming Language - 1
+---
+
+#### 분류
+
+Programming Language
+
+#### 문제 설명
+
+<p>'이 연산자'는 c언어의 구조체 포인터 안의 변수에, 즉 멤버 변수에 쉽게 접근할 수 있도록 해준다.</p>
+
+#### ANSWER
+
+<p>화살표 연산자, -></p>
+<br>
