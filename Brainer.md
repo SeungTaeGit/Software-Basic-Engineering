@@ -54,3 +54,33 @@ Data Structure
 
 <p>5</p>
 <br>
+
+
+### Programming Language - 2
+---
+
+#### 분류
+
+Programming Language
+
+#### 문제 설명
+
+<p>다음 c 언어로 이루어진 코드의 예상 출력을 작성하시오.</p>
+
+```c
+#include <stdio.h>
+
+void main() {
+  int a = 10;
+
+  switch(++a) {
+    case 11: printf("A");
+    case 12: printf("B");
+  }
+}
+```
+
+#### ANSWER
+
+<p>AB</p>
+<br>
